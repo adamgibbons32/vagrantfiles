@@ -1,0 +1,11 @@
+# Vagrant:
+.vagrant/
+
+# Logs:
+*.log
+
+# IDE
+.idea
+
+*.tgz
+*.tar.*
